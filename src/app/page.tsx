@@ -31,7 +31,12 @@ export default function Home() {
         opportunities, and prime visibility at top events. Embrace your radiance
         and let your impact be felt far and wide.
       </p>
+      <p>
+        <em>More to come soon...</em>
+      </p>
       <SpeakeratiMatrix />
+      <hr />
+      <p className="footnote">Created by <a href="https://twitter.com/bendechrai">Ben Dechrai</a>. Sorry.</p>
     </main>
   );
 }

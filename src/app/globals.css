@@ -72,7 +72,7 @@ div.logo {
 
 a {
   color: inherit;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 table {
@@ -89,4 +89,10 @@ table {
   td {
     background-color: #333;
   }
+}
+
+.footnote {
+  font-size: 0.8em;
+  text-align: center;
+  color: #666;
 }
